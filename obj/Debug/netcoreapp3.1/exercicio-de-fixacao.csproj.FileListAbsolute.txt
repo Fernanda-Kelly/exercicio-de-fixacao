@@ -1,0 +1,14 @@
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.exe
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.deps.json
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.runtimeconfig.json
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.dll
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\bin\Debug\netcoreapp3.1\exercicio-de-fixacao.pdb
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.dll
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.pdb
+C:\Users\Fernanda\Desktop\FERNANDA\6.Repositorios\exercicio-de-fixacao\obj\Debug\netcoreapp3.1\exercicio-de-fixacao.genruntimeconfig.cache
